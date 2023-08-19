@@ -182,3 +182,20 @@ Congratulations! You've successfully set up the Decentralized Stable Coin protoc
 By creating this decentralized stable coin, you're contributing to the innovative landscape of blockchain-based finance and commerce.
 
 
+## Reference Images
+
+![1](https://github.com/Pranesh1801/Flipkart_Grid_Stablecoin/assets/111297454/30c6fe33-ea66-410d-a86f-a5482dbeb444)
+
+
+![2](https://github.com/Pranesh1801/Flipkart_Grid_Stablecoin/assets/111297454/9d3d4b34-27eb-481f-a52b-677bc9627748)
+
+
+![3](https://github.com/Pranesh1801/Flipkart_Grid_Stablecoin/assets/111297454/ce36b3bb-6b9f-4dd7-87ac-50301f1b64d8)
+
+
+## Demo Video
+
+
+https://github.com/Pranesh1801/Flipkart_Grid_Stablecoin/assets/111297454/209bd6df-f25b-4a82-9726-b65de4ac3c4d
+
+
