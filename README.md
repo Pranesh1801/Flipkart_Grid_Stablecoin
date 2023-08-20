@@ -29,7 +29,7 @@ Before you start, ensure you have the following tools and accounts set up:
 Clone the repository:
 
 ```bash
-https://github.com/Balamurugan-Nagarajan/flipkartWeb3
+https://github.com/Pranesh1801/Flipkart_Grid_Stablecoin
 ```
 
 Install dependencies:
@@ -123,7 +123,7 @@ Before you begin, ensure you have the following tools and accounts set up:
 Clone the repository:
 
 ```bash
-https://github.com/Balamurugan-Nagarajan/FlipkartStableCoin
+https://github.com/Pranesh1801/Flipkart_Grid_Stablecoin
 ```
 
 Install dependencies:
