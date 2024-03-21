@@ -1,3 +1,5 @@
+#Currently known as Dappkart
+
 # Decentralized Flipkart Clone Documentation
 
 Welcome to the documentation for the Decentralized Flipkart Clone project, where items can be minted as NFTs and purchased using the Flipkart Super Coin (stable coin). This documentation will guide you through the setup, components, and functionality of the project.
